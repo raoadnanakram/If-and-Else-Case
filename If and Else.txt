@@ -9,3 +9,17 @@ public class adnanrao {
             System.out.println("you cannot drive  car");
     }
 }
+
+And other Example if and else:
+public class adnanrao {
+    public static void main(String[] args) {
+        int money=17;
+
+        if(money<18)
+
+        System.out.println(" Yes Bro you can buys vegetable ");
+        else
+            System.out.println("you  cannot buys vegetable  ");
+    }
+}
+
